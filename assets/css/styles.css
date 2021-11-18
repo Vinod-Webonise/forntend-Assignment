@@ -1,0 +1,27 @@
+.bgtopRowCss {
+  background-color: #3355aa;
+}
+
+.searchIconBgCss {
+  background-color: rgba(221,217,228,0.08);
+}
+
+.borderRadisCss {
+  border-radius: 10px;
+}
+
+.borderButtomYellow {
+  border-bottom: 5px solid rgb(222,190,20);
+}
+
+.textColorViewMore {
+  color: rgb(97,53,190);
+  font-weight: 700;
+}
+
+.divSize {
+  height: 250px;
+}
+.textSizeDiv{
+ font-size: 16px;
+}
